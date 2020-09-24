@@ -136,6 +136,7 @@ export default {
   display: flex;
   flex-flow: row wrap;
   align-items: center;
+  outline: none;
 }
 .input {
   padding: 15px;
