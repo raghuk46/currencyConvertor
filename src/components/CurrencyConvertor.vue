@@ -150,5 +150,6 @@ export default {
   width: 50px;
   height: 35px;
   border-radius: 15px;
+  outline: none;
 }
 </style>
